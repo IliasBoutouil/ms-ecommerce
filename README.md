@@ -1,6 +1,5 @@
 # ecommerce micro-services architecture 
 ### Project architecture : 
-![image](https://user-images.githubusercontent.com/65473179/209452152-88b65378-16a6-4791-ac9d-03f6cbaed143.png)
 ![image](https://user-images.githubusercontent.com/65473179/209452170-87fdf833-bd6c-46ee-9792-13fa0e103e66.png)
 
 ### Customers end point : 
