@@ -15,4 +15,12 @@
 ### Full bill end point : 
 ![image](https://user-images.githubusercontent.com/65473179/209452207-b71a019c-81b7-413c-8033-b89efc1a118a.png)
 
-to be continued from step 7...
+### Keycloak : 
+![image](https://user-images.githubusercontent.com/65473179/212548085-bf69ce14-6441-4630-94a3-c5f581014346.png)
+![image](https://user-images.githubusercontent.com/65473179/212548108-dde70c4c-ec05-4bcc-a8fb-29f1776180a3.png)
+![image](https://user-images.githubusercontent.com/65473179/212548129-2a49c82a-f9da-493f-b886-468944983d67.png)
+![image](https://user-images.githubusercontent.com/65473179/212548153-bdf5286e-5fd1-4de2-a315-c90d6ee3ad5c.png)
+![image](https://user-images.githubusercontent.com/65473179/212548204-b9089ec6-6faa-466e-9d25-a5ee7940ba00.png)
+![image](https://user-images.githubusercontent.com/65473179/212548353-ac3f3e7b-68e9-426d-95c2-fd6dd922ff7e.png)
+
+
