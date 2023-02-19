@@ -26,3 +26,8 @@
 ## Securing inventory service
 ![image](https://user-images.githubusercontent.com/65473179/212551547-92e54539-6c03-46d4-b1cd-3093c2811309.png)
 
+## front-end 
+![image](https://user-images.githubusercontent.com/65473179/219945411-a44fcfbc-9086-4935-84cf-4d62240d7701.png)
+![image](https://user-images.githubusercontent.com/65473179/219945436-b5edf019-918c-4fb0-8b1f-6c5e2304b40c.png)
+![image](https://user-images.githubusercontent.com/65473179/219945949-f921b2af-3591-4e30-a18a-ea8767d92547.png)
+![image](https://user-images.githubusercontent.com/65473179/219946139-a11573b6-c455-47b7-99cb-d894a79413cb.png)
